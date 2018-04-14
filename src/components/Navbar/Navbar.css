@@ -1,0 +1,10 @@
+.score {
+    color: rgb(53, 53, 153);
+    font-size: 40px;
+    float: right;
+    font-weight: bolder;
+}
+
+ul {
+    list-style-type: none;
+}

@@ -1,0 +1,12 @@
+.card {
+    background: #fff;
+    border-radius: 2px;
+    position: relative;
+    float: left;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: left;
+    width: 200px;
+    height: 200px;
+    padding: 40px;
+    margin: 40px;
+}
